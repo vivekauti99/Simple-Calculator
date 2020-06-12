@@ -1,8 +1,9 @@
 # Simple Calculator
 Python based GUI calculator using Tkinter library 
-![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
 
 This is my first python project. From the very start I had an interest in GUIs, so I learnt the basics of tkinter and developed this project.
+
+![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
 
 ## Description
 This application can perform simple mathematical applications like Addition, Subtraction, Multiplication and Divison.
